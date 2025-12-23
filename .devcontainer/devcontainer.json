@@ -1,0 +1,16 @@
+{
+  "name": "My .NET 10 Project",
+  "image": "mcr.microsoft.com",
+  "features": {
+    "ghcr.io/devcontainers/features/dotnet:1": {
+      "version": "10.0"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csharp"
+      ]
+    }
+  }
+}
