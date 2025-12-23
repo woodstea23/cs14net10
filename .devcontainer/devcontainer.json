@@ -2,7 +2,7 @@
   "name": "My .NET 10 Project",
   "image": "mcr.microsoft.com",
   "features": {
-    "ghcr.io/devcontainers/features/dotnet:1": {
+    "ghcr.io/devcontainers/features/dotnet:2": {
       "version": "10.0"
     }
   },
