@@ -1,0 +1,18 @@
+Various dotnet commands that have been used in this book:
+
+dotnet --list-sdks
+dotnet --list-runtimes
+dotnet --info
+
+dotnet new sln --name Chapter01
+dotnet new console --output HelloCS
+dotnet sln add HelloCS
+
+dotnet build
+dotnet clean
+
+dotnet new console -o AboutMyEnvironment --use-program-main
+dotnet sln add AboutMyEnvironment
+
+# Convert a file-based app to project-based 
+dotnet project convert app.cs
