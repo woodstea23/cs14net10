@@ -16,3 +16,6 @@ dotnet sln add AboutMyEnvironment
 
 # Convert a file-based app to project-based 
 dotnet project convert app.cs
+
+dotnet --version
+
