@@ -5,7 +5,8 @@
       "extensions": [
         "ms-dotnettools.csdevkit",
         "ms-dotnettools.csharp",
-        "ms-dotnettools.dotnet-maui"
+        "ms-dotnettools.dotnet-maui",
+        "VisualStudioToolsForUnity.vstuc"
       ]
     }
   }
